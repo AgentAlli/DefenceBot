@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.51.48.2",
+    "project": "DefenceBot2.0"
+  }
+]
